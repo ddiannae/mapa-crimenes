@@ -1,0 +1,14 @@
+name: mapa-crimenes
+title: mapa-crimenes
+username:
+account: ddiannae
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9358643
+bundleId: 7383591
+url: https://ddiannae.shinyapps.io/mapa-crimenes/
+when: 1687624394.06991
+lastSyncTime: 1687624394.06994
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: exploracion.R|gomap.js|styles.css
